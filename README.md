@@ -11,7 +11,7 @@ As easy as download, and extract
 ### Initial setup
 Go to the place where you extracted cmdbot, open `cmdbot.exe` to create the config file
 
-Open `cmdbot.exe` as administrator so you can use cmdbot everywhere
+Open `cmdbot.exe` as administrator so you can use cmdbot everywhere, and restart for run properly (like ability to open in vbs file)
 
 don't forget to open `streamer.bot.exe` and connect **HTTP server** in **Servers/Clients** tab to run it 
 
